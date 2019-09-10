@@ -1,0 +1,164 @@
+.border-radius{
+    border-radius: 25px;
+    margin: 0 10px;
+    text-align: center;
+    background: #165d7d;
+    border: #165d7d 1px solid;
+}
+.header{
+    background-color: #165d7d;
+    width: 100%;
+}
+.h1{
+    text-align: center;
+    color: white;
+}
+.h5{
+    text-align: center;
+    color: antiquewhite;
+}
+.huruf{
+    text-align: center;
+}
+#menuu{
+    width: 15%;
+    padding-left: 20px;
+    position: absolute;
+    left: 0;
+}
+
+.apa {
+    width: 85%;
+    display: block;
+    margin: auto;
+}
+.warna{
+    color: rgb(252, 5, 178);
+}
+.c{
+    color: blue;
+}
+.it{
+    color: #e84118;
+    margin-right: 20px; 
+}
+.access{
+    color:#4cd137;
+}
+.colla{
+    color:#00a8ff;
+}
+ #siapa .list {
+   margin:0 auto;
+}
+.list p {
+    display: inline;
+}
+.box-card{
+    display: block;
+    margin: auto;
+}
+.boxes{
+    display: block;
+    margin: auto;
+    width: 55%;
+}
+.card{
+    float: left;
+    width: 46%;
+    margin: 2%;
+    height: 50vh;
+}
+.card:last-child{
+    clear: both;
+    height: 55vh;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}
+.card:hover {
+    border: 2px solid #000;
+}
+.OP{
+    text-align: center;
+}
+.wow{
+    text-align: center;
+    background-color: #165d7d;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+card.p{
+    text-align: right;
+    color: red;
+}
+#zz{
+    background-color: #4cd137;
+}
+#ab{
+    background-color: rgb(204, 199, 199);
+    color: black;
+    font-size: 12px;
+}
+#bc{
+    background-color: rgb(204, 199, 199);
+    color: black;
+    font-size: 12px;
+}
+#aw{
+    background-color: white;
+    color: #165d7d;
+}
+#za{
+    background-color: #165d7d;
+    color: white;
+}
+#we{
+    background-color: rgb(204, 199, 199);
+    color: black;
+    font-size: 12px;
+}
+#qa{
+    background-color: white;
+    color: #165d7d;
+}
+#re{
+    background-color: #165d7d;
+    color: white;
+}
+#df{
+    background-color: rgb(204, 199, 199);
+    color: black;
+    font-size: 12px;
+}
+#xa{
+    background-color: white;
+    color: #165d7d;
+}
+#iu{
+    background-color: rgb(204, 199, 199);
+    color: black;
+    font-size: 12px;
+}
+#ss{
+    background-color: #165d7d;
+    color: white;
+}
+.link-btn1{
+    display: inline-block;
+    padding: .5vw;
+    background: #14324167;
+    outline: none;
+    color: white;
+    border-radius: 28px;
+    text-decoration: none;
+}
+.link-btn1:hover{
+    text-decoration: none;
+    color: white;
+}
+#cv{
+    background-color: #4cd137;
+}
